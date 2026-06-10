@@ -1,8 +1,4 @@
- ---
-  title: Delete Your Account
-  ---
-
-  # Delete Your Willow Running Club Account
+# Delete Your Willow Running Club Account
 
   If you would like to delete your Willow Running Club account, you have two options.
 
@@ -15,7 +11,7 @@
   3. Scroll to the bottom of the screen.
   4. Tap **Delete account**.
   5. Confirm by tapping **Delete forever**.
-  6. You may be asked to sign in with Apple or Google again to confirm — this is a security requirement.
+  6. You may be asked to sign in with Apple or Google again to confirm. This is a security requirement.
 
   When you confirm, the following is permanently and immediately deleted from our backend:
 
@@ -27,9 +23,10 @@
 
   ## Option 2: Email request (if you no longer have the app)
 
-  If you can no longer access the app, for example because you uninstalled it or your device is unavailable, email accessible.ethical@proton.me with:
+  If you can no longer access the app, for example because you uninstalled it or your device is unavailable, email
+  **accessible.ethical@proton.me** with:
 
-  - The subject line: **Account deletion request — Willow Running Club**
+  - The subject line: Account deletion request for Willow Running Club
   - The email address you used to sign in with Google or Apple
 
   We will verify by replying from the same email address and then permanently delete your account and all associated data
@@ -45,4 +42,4 @@
 
   ## Questions
 
-  If you have any questions about account deletion or your data, email accessible.ethical@proton.me.
+  If you have any questions about account deletion or your data, email **accessible.ethical@proton.me**.
